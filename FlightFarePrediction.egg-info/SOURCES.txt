@@ -1,0 +1,6 @@
+setup.py
+FlightFarePrediction.egg-info/PKG-INFO
+FlightFarePrediction.egg-info/SOURCES.txt
+FlightFarePrediction.egg-info/dependency_links.txt
+FlightFarePrediction.egg-info/requires.txt
+FlightFarePrediction.egg-info/top_level.txt
